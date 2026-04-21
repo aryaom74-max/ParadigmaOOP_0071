@@ -18,5 +18,5 @@ class Mahasiswa{
         mhs1.nim = 1111;
         mhs1.nama = "Joko susilo";
         mhs1.nilai = 75.5;
-        mhs1.printDa();
+        mhs1.printData();
     }
